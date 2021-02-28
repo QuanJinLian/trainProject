@@ -1,4 +1,6 @@
-# trainProject
+# trainProject  
+
+## 톰캣 실행
 
 
 #### Connection pool설정 -(Servers -> context.xml)
