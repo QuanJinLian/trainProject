@@ -18,7 +18,8 @@
            url="jdbc:mysql://localhost:3306/train?serverTimezone=UTC"	    
            closeMethod="close"/> 
 
-### 2. mySQL 테이블 및 초기 데이터 구축 (소스중 Dump20210228.sql 인포트)  
+### 2. mySQL 테이블 및 초기 데이터 구축 (master중 Dump20210228.sql 인포트)  
 ### 3. 톰캣 실행 
+### 4. master중 발표 ppt올려 놓았습니다. 전체 프로세스 확인 원하시는 분은 열람 부탁드립니다.
 
 
