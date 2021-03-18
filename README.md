@@ -3,12 +3,14 @@
 
 
 #### 사용자 모드 : http://localhost:8080/trainProject/train/user/index.do  
-#### 관리자 모드 : http://localhost:8080/trainProject/train/admin/login.do?form=form  
-
+#### 관리자 모드 : http://localhost:8080/trainProject/train/admin/login.do?form=form    
+  
 
 
 ## 사전 작업 
-### 1. connection pool설정  2. mySQL 테이블 및 초기 데이터 구축 (소스중 Dump20210228.sql 인포트)  3. 톰캣 실행 
+### 1. connection pool설정  
+### 2. mySQL 테이블 및 초기 데이터 구축 (소스중 Dump20210228.sql 인포트)  
+### 3. 3. 톰캣 실행 
 
 
 #### Connection pool설정 -(Servers -> context.xml)
